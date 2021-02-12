@@ -1,0 +1,24 @@
+{
+  "name": "player-generator",
+  "version": "1.0.0",
+  "description": "Simple player generator for creator character from pixel ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dursky/Player-Generator.git"
+  },
+  "author": "Michał Durski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dursky/Player-Generator/issues"
+  },
+  "homepage": "https://github.com/Dursky/Player-Generator#readme",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1"
+  }
+}
