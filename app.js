@@ -24,8 +24,5 @@ app.set('view engine','pug')
 app.get('/',router)
 
 
-module.exports = {
-    app,
-    express
-}
+module.exports = app;
 
